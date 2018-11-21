@@ -1,4 +1,21 @@
-.over {
-  height: 100px;
+.header {
+  margin: 15px;
+}
+
+.logo {
+  height: 90px;
   background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.imageairbnblogo {
+  width: 250px;
+}
+
+.article{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
 }
